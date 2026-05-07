@@ -1,0 +1,26 @@
+// This file just imports all components and
+// exports them from one place to make code more readable
+import Navbar from "./Navbar";
+import Hero from "./Hero";
+import Education from "./Education";
+import SkillsAndExperience from "./SkillsAndExperience";
+import Projects from "./Projects";
+import Testimonial from "./Testimonial";
+import Footer from "./Footer";
+import Button from "./Button";
+import Stats from "./Stats";
+import Loading from "./Loading";
+
+
+export {
+    Navbar,
+    Hero,
+    Education,
+    SkillsAndExperience,
+    Projects,
+    Testimonial,
+    Footer,
+    Button,
+    Stats,
+    Loading,
+};
