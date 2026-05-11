@@ -282,7 +282,7 @@ export const experiences = [
 
       {
         title: "Senior Shopify Developer",
-        duration: "Oct 2023 - Aug 2025",
+        duration: "Oct 2023 - Mar 2026",
         content: [
           {
             text: "Led development of advanced Shopify themes using Liquid, Sections, and JSON templates, creating dynamic and immersive storefront experiences.",

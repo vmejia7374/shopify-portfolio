@@ -34,12 +34,11 @@ const Footer = () => (
           ))}
         </div> */}
 
-        <div className="grid grid-cols-2">
-          {/* styles is a prop */}
+        {/* <div className="grid grid-cols-2">
           <a href="/Alberto Castillo.pdf" download>
             <Button styles="mt-10 mr-3 inline-flex items-center justify-center" text="Resume" icon={AiFillGithub} />
           </a>
-        </div>
+        </div> */}
       </div>
 
       <div className="md:ml-auto mt-10 md:mt-0">
